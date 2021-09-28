@@ -1,0 +1,9 @@
+C:\Users\marta\Desktop\INFORMATICA\OnlineRegisterSolution\OnlineRegisterClassLibrary\bin\Debug\netcoreapp3.1\OnlineRegisterClassLibrary.deps.json
+C:\Users\marta\Desktop\INFORMATICA\OnlineRegisterSolution\OnlineRegisterClassLibrary\bin\Debug\netcoreapp3.1\OnlineRegisterClassLibrary.dll
+C:\Users\marta\Desktop\INFORMATICA\OnlineRegisterSolution\OnlineRegisterClassLibrary\obj\Debug\netcoreapp3.1\OnlineRegisterClassLibrary.csprojAssemblyReference.cache
+C:\Users\marta\Desktop\INFORMATICA\OnlineRegisterSolution\OnlineRegisterClassLibrary\obj\Debug\netcoreapp3.1\OnlineRegisterClassLibrary.AssemblyInfoInputs.cache
+C:\Users\marta\Desktop\INFORMATICA\OnlineRegisterSolution\OnlineRegisterClassLibrary\obj\Debug\netcoreapp3.1\OnlineRegisterClassLibrary.AssemblyInfo.cs
+C:\Users\marta\Desktop\INFORMATICA\OnlineRegisterSolution\OnlineRegisterClassLibrary\bin\Debug\netcoreapp3.1\OnlineRegisterClassLibrary.pdb
+C:\Users\marta\Desktop\INFORMATICA\OnlineRegisterSolution\OnlineRegisterClassLibrary\obj\Debug\netcoreapp3.1\OnlineRegisterClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\marta\Desktop\INFORMATICA\OnlineRegisterSolution\OnlineRegisterClassLibrary\obj\Debug\netcoreapp3.1\OnlineRegisterClassLibrary.dll
+C:\Users\marta\Desktop\INFORMATICA\OnlineRegisterSolution\OnlineRegisterClassLibrary\obj\Debug\netcoreapp3.1\OnlineRegisterClassLibrary.pdb
